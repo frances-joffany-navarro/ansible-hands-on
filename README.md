@@ -1,1 +1,3 @@
-# ansible-hands-on
+# Ansible Hands-on
+
+- courses in Pluralsight
