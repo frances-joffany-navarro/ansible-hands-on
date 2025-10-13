@@ -1,7 +1,6 @@
 # Ansible Hands-on
 
-- courses in Pluralsight
-  - this will give me an idea what project to do.
+This project is to learn about ansible by doing. This include tutorials in Youtube, Pluralsight.
 
 ## Credits
 [Andible Docs](https://docs.ansible.com/)
